@@ -18,7 +18,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className='bg-black'>{children}</div></body>
+          <main className='min-h-screen max-sm:py-3 bg-black flex items-center'>{children}</main>
+      </body>
     </html>
   )
 }
