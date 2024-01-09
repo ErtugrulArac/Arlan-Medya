@@ -7,7 +7,7 @@ const email = () => {
             max-sm:w-[90%] m-auto flex  justify-end rounded-[50px] bg-white'>
                 <input className='  text-base max-sm:text-sm outline-none px-4 font-fontum rounded-[50px] w-[100%]' placeholder='
         E mail adresini giriniz' type="text" />
-                <a className='rounded-[50px] py-3 px-9 bg-black text-stone-50 font-fontum text-nowrap max-sm:text-sm' href="">ABONE OL</a>
+                <a className='whitespace-nowrap rounded-[50px] py-3 px-9 bg-black text-stone-50 font-fontum text-nowrap max-sm:text-sm' href="">ABONE OL</a>
             </div>
         </div>
     )
