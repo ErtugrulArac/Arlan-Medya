@@ -26,10 +26,10 @@ const coming = () => {
                             Web sitemiz şu anda yeniden
                             yapılanma sürecinde ve çok yakında sizlerle buluşacak. Yeniliklerle
                             dolu bu süreçte, sitemizi daha kullanıcı dostu, bilgi dolu ve
-                            etkileşimli hale getirmek için Arlan Medya ekibi olarak çalışıyoruz. Bu süreçte Arlan Medya için
+                            etkileşimli hale getirmek için Arlan Medya ekibi olarak çalışıyoruz. Bu süreçte Arlan Medya'ya
                             gösterdiğiniz sabır için teşekkür ederiz. <br /> Arlan Medya yeni ve güçlü içeriklerle,
                             kullanıcı dostu arayüzle ve daha fazla özellikle karşınıza çıkmak için
-                            sabırsızlanıyor. Anlayışınız ve destekleriniz için teşekkür ederiz.
+                            sabırsızlanıyor. Anlayışınız ve destekleriniz için teşekkür ederiz. Arlan Medya...
                         </h3>
                     </div>
                 </div>
