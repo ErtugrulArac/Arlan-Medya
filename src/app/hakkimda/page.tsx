@@ -2,7 +2,7 @@ import React from 'react'
 
 const hakkımda = () => {
     return (
-        <div>
+        <div className='text-white'>
             <h1>ERZURUM REKLAM AJANSI</h1>
             <p>Erzurum'da reklam ajansı olarak faaliyet gösteren Arlan Medya, markanızı güçlendirmek, hedef kitlenize ulaşmak ve etkileşimi artırmak için yaratıcı ve özgün çözümler sunmaktadır. Profesyonel ekip ve teknolojik alt yapı ile müşteri memnuniyetini ön planda tutuyoruz.</p>
 
