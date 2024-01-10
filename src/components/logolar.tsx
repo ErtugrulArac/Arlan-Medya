@@ -23,7 +23,7 @@ const logolar = () => {
                     </defs>
                 </svg>
                 </a>
-                <a target=" _blank" href="https://www.linkedin.com/company/100062234/admin/inbox?lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_inbox_index%3Bee298fb3-31b7-4884-89e1-ee6bea4f53b5"><svg className='max-sm:w-10'  width="72" height="72" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <a target=" _blank" href="https://www.linkedin.com/company/arlan-medya"><svg className='max-sm:w-10'  width="72" height="72" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M21 24.5838C21 22.6057 22.6561 21 24.6975 21H67.3325C69.3747 21 71.03 22.6057 71.03 24.5838V67.4468C71.03 69.4255 69.3747 71.03 67.3325 71.03H24.6975C22.6563 71.03 21 69.4257 21 67.4474V24.5832V24.5838Z" fill="#006699" />
                     <path d="M36.2012 62.8686V40.345H28.7147V62.8686H36.202H36.2012ZM32.4595 37.2703C35.0697 37.2703 36.6947 35.5407 36.6947 33.3793C36.6458 31.1686 35.0697 29.4873 32.5092 29.4873C29.9469 29.4873 28.2734 31.1686 28.2734 33.3791C28.2734 35.5405 29.8978 37.2701 32.4105 37.2701H32.459L32.4595 37.2703ZM40.3451 62.8686H47.8311V50.2918C47.8311 49.6195 47.8799 48.9455 48.0777 48.4653C48.6186 47.1198 49.8504 45.7269 51.9191 45.7269C54.6273 45.7269 55.7114 47.7922 55.7114 50.8204V62.8686H63.1971V49.9543C63.1971 43.0363 59.5043 39.8169 54.5789 39.8169C50.5407 39.8169 48.7672 42.074 47.7818 43.6112H47.8316V40.3458H40.3455C40.4432 42.4588 40.3449 62.8694 40.3449 62.8694L40.3451 62.8686Z" fill="white" />
                 </svg>
@@ -33,7 +33,7 @@ const logolar = () => {
                 </svg>
 
                 </a>
-                <a target=" _blank" href="arlanmedya@gmail.com"><svg className='max-sm:w-10'  width="62" height="62" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <a target=" _blank" href="mailto:arlanmedya@gmail.com"><svg className='max-sm:w-10'  width="62" height="62" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M21.6354 66H30.1182V45.3992L18 36.3105V62.3646C18 64.3762 19.6299 66 21.6354 66Z" fill="#4285F4" />
                     <path d="M59.2031 66H67.6858C69.6975 66 71.3213 64.3702 71.3213 62.3646V36.3105L59.2031 45.3992" fill="#34A853" />
                     <path d="M59.2031 29.6458V45.3994L71.3213 36.3108V31.4635C71.3213 26.9676 66.1892 24.4047 62.5962 27.1009" fill="#FBBC04" />
